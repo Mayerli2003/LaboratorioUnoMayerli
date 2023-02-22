@@ -1,0 +1,8 @@
+C:\Users\mmaye\Documents\GitHub\LaboratorioUnoMayerli\Laboratorio1Azucena\Laboratorio1Azucena\bin\Debug\Laboratorio1Azucena.exe.config
+C:\Users\mmaye\Documents\GitHub\LaboratorioUnoMayerli\Laboratorio1Azucena\Laboratorio1Azucena\bin\Debug\Laboratorio1Azucena.exe
+C:\Users\mmaye\Documents\GitHub\LaboratorioUnoMayerli\Laboratorio1Azucena\Laboratorio1Azucena\bin\Debug\Laboratorio1Azucena.pdb
+C:\Users\mmaye\Documents\GitHub\LaboratorioUnoMayerli\Laboratorio1Azucena\Laboratorio1Azucena\obj\Debug\Laboratorio1Azucena.csproj.AssemblyReference.cache
+C:\Users\mmaye\Documents\GitHub\LaboratorioUnoMayerli\Laboratorio1Azucena\Laboratorio1Azucena\obj\Debug\Laboratorio1Azucena.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmaye\Documents\GitHub\LaboratorioUnoMayerli\Laboratorio1Azucena\Laboratorio1Azucena\obj\Debug\Laboratorio1Azucena.csproj.CoreCompileInputs.cache
+C:\Users\mmaye\Documents\GitHub\LaboratorioUnoMayerli\Laboratorio1Azucena\Laboratorio1Azucena\obj\Debug\Laboratorio1Azucena.exe
+C:\Users\mmaye\Documents\GitHub\LaboratorioUnoMayerli\Laboratorio1Azucena\Laboratorio1Azucena\obj\Debug\Laboratorio1Azucena.pdb
