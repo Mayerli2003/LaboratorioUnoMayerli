@@ -19,7 +19,7 @@ namespace Laboratorio1Azucena
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Green;
 
-                Console.WriteLine("--------------------------------BIENVEDIDO/A--------------------------------");
+                Console.WriteLine("--------------------------------BIENVEDIDO/A--------------------------------\n");
                 Console.WriteLine("------------------------Elija su departamento-------------------------");
 
                 Console.WriteLine("\n1 - Chalatenango");
@@ -42,7 +42,7 @@ namespace Laboratorio1Azucena
                         do
                         {
                             Console.Clear();
-
+                            Console.WriteLine("___________________________CHALATENANGO____________________________");  
                             Console.WriteLine("\n1 - Agua Caliente");
                             Console.WriteLine("\n2 - Arcatao");
                             Console.WriteLine("\n3 - Azacualpa");
@@ -122,7 +122,7 @@ namespace Laboratorio1Azucena
                         do
                         {
                             Console.Clear();
-                            
+                            Console.WriteLine("___________________________SANTA ANA____________________________");
                             Console.WriteLine("\n1 - Chalchuapa");
                             Console.WriteLine("\n2 - Coatepeque");
                             Console.WriteLine("\n3 - El congo");
@@ -203,7 +203,7 @@ namespace Laboratorio1Azucena
                         do
                         {
                             Console.Clear();
-
+                            Console.WriteLine("___________________________AHUACHAPAN____________________________");
                             Console.WriteLine("\n1 - Ahuachapán");
                             Console.WriteLine("\n2 - Apaneca");
                             Console.WriteLine("\n3 - Atiquizaya");
@@ -283,7 +283,7 @@ namespace Laboratorio1Azucena
                         do
                         {
                             Console.Clear();
-
+                            Console.WriteLine("___________________________SONSONATE____________________________");
                             Console.WriteLine("\n1 - Acajutla");
                             Console.WriteLine("\n2 - Armenia");
                             Console.WriteLine("\n3 - Caluco");
@@ -363,7 +363,7 @@ namespace Laboratorio1Azucena
                         do
                         {
                             Console.Clear();
-
+                            Console.WriteLine("___________________________LA LIBERTAD____________________________");
                             Console.WriteLine("\n1 - Colón");
                             Console.WriteLine("\n2 - Comasagua");
                             Console.WriteLine("\n3 - Ciudad Arce");
@@ -443,7 +443,7 @@ namespace Laboratorio1Azucena
                         do
                         {
                             Console.Clear();
-
+                            Console.WriteLine("___________________________SAN SALVADOR____________________________");
                             Console.WriteLine("\n1 - Aguilares");
                             Console.WriteLine("\n2 - Apopa");
                             Console.WriteLine("\n3 - Ciudad Delgado");
@@ -523,7 +523,7 @@ namespace Laboratorio1Azucena
                         do
                         {
                             Console.Clear();
-
+                            Console.WriteLine("___________________________LA PAZ____________________________");
                             Console.WriteLine("\n1 - El Rosario");
                             Console.WriteLine("\n2 - Jesusalén");
                             Console.WriteLine("\n3 - Zacatecoluca");
@@ -603,7 +603,7 @@ namespace Laboratorio1Azucena
                         do
                         {
                             Console.Clear();
-
+                            Console.WriteLine("___________________________SAN VICENTE____________________________");
                             Console.WriteLine("\n1 - Apastepeque");
                             Console.WriteLine("\n2 - Guadalupe");
                             Console.WriteLine("\n3 - San Lorenzo");
@@ -683,7 +683,7 @@ namespace Laboratorio1Azucena
                         do
                         {
                             Console.Clear();
-
+                            Console.WriteLine("___________________________USULUTAN____________________________");
                             Console.WriteLine("\n1 - Alegría");
                             Console.WriteLine("\n2 - Berlín");
                             Console.WriteLine("\n3 - California");
@@ -763,9 +763,12 @@ namespace Laboratorio1Azucena
                         Console.WriteLine("Fin de las consultas");
                         
                         break;
-                    
+                    default:
+                        Console.WriteLine("La opcion ingresada no es correcta");
+                        break;
 
-                    
+
+
                 }
                 
             }
