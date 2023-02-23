@@ -146,7 +146,7 @@ namespace Laboratorio1Azucena
 
                                 case "2":
                                     Console.WriteLine("Departamento: Santa Ana");
-                                    Console.WriteLine("Municipio: Cuatepeque");
+                                    Console.WriteLine("Municipio: Coatepeque");
                                     departamento.datos();
                                     Console.ReadLine();
                                     break;
