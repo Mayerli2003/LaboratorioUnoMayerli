@@ -51,7 +51,7 @@ namespace Laboratorio1Azucena
                             Console.WriteLine("\n6 - Citalá");
                             Console.WriteLine("\n7 - Comalapa");
                             Console.WriteLine("\n8 - Concepción Quezaltepeque");
-                            Console.WriteLine("---------------------------------------------");
+                            Console.WriteLine("---------------------------------------------\n");
                             Console.WriteLine("\n9 - Salir");
                             Console.WriteLine("\nIngrese el numero de su consulta");
                             id = Console.ReadLine();
@@ -131,8 +131,8 @@ namespace Laboratorio1Azucena
                             Console.WriteLine("\n6 - Metapán");
                             Console.WriteLine("\n7 - Santa Ana");
                             Console.WriteLine("\n8 - Masahuat");
-                            Console.WriteLine("__________________________________");
-                            Console.WriteLine("9-Salir");
+                            Console.WriteLine("________________________________________\n");
+                            Console.WriteLine("\n9-Salir");
                             Console.WriteLine("\nIngrese el numero de su consulta");
                             id = Console.ReadLine();
                             switch (id)
@@ -212,8 +212,8 @@ namespace Laboratorio1Azucena
                             Console.WriteLine("\n6 - Tacuba");
                             Console.WriteLine("\n7 - Turín");
                             Console.WriteLine("\n8 - San Lorenzo");
-                            Console.WriteLine("__________________________________");
-                            Console.WriteLine("9-Salir");
+                            Console.WriteLine("__________________________________\n");
+                            Console.WriteLine("\n9-Salir");
                             Console.WriteLine("\nIngrese el numero de su consulta");
                             id = Console.ReadLine();
                             switch (id)
@@ -292,8 +292,8 @@ namespace Laboratorio1Azucena
                             Console.WriteLine("\n6 - Juayúa");
                             Console.WriteLine("\n7 - Nahuizalco");
                             Console.WriteLine("\n8 - Salcoatitán");
-                            Console.WriteLine("__________________________________");
-                            Console.WriteLine("9-Salir");
+                            Console.WriteLine("__________________________________\n");
+                            Console.WriteLine("\n9-Salir");
                             Console.WriteLine("\nIngrese el numero de su consulta");
                             id = Console.ReadLine();
                             switch (id)
@@ -372,8 +372,8 @@ namespace Laboratorio1Azucena
                             Console.WriteLine("\n6 - Santa Tecla");
                             Console.WriteLine("\n7 - Sacacoyo");
                             Console.WriteLine("\n8 - San Matías");
-                            Console.WriteLine("__________________________________");
-                            Console.WriteLine("9-Salir");
+                            Console.WriteLine("__________________________________\n");
+                            Console.WriteLine("\n9-Salir");
                             Console.WriteLine("\nIngrese el numero de su consulta");
                             id = Console.ReadLine();
                             switch (id)
@@ -452,8 +452,8 @@ namespace Laboratorio1Azucena
                             Console.WriteLine("\n6 - Ilopango");
                             Console.WriteLine("\n7 - Mejicanos");
                             Console.WriteLine("\n8 - Nejapa");
-                            Console.WriteLine("__________________________________");
-                            Console.WriteLine("9-Salir");
+                            Console.WriteLine("__________________________________\n");
+                            Console.WriteLine("\n9-Salir");
                             Console.WriteLine("\nIngrese el numero de su consulta");
                             id = Console.ReadLine();
                             switch (id)
@@ -532,8 +532,8 @@ namespace Laboratorio1Azucena
                             Console.WriteLine("\n6 - San Juan Talpa");
                             Console.WriteLine("\n7 - San Juan Nonualco");
                             Console.WriteLine("\n8 - San Luis Talpa");
-                            Console.WriteLine("__________________________________");
-                            Console.WriteLine("9-Salir");
+                            Console.WriteLine("__________________________________\n");
+                            Console.WriteLine("\n9-Salir");
                             Console.WriteLine("\nIngrese el numero de su consulta");
                             id = Console.ReadLine();
                             switch (id)
@@ -612,8 +612,8 @@ namespace Laboratorio1Azucena
                             Console.WriteLine("\n6 - Santa Clara");
                             Console.WriteLine("\n7 - Santo Domingo");
                             Console.WriteLine("\n8 - Tecoluca");
-                            Console.WriteLine("__________________________________");
-                            Console.WriteLine("9-Salir");
+                            Console.WriteLine("__________________________________\n");
+                            Console.WriteLine("\n9-Salir");
                             Console.WriteLine("\nIngrese el numero de su consulta");
                             id = Console.ReadLine();
                             switch (id)
@@ -692,8 +692,8 @@ namespace Laboratorio1Azucena
                             Console.WriteLine("\n6 - Jucuarán");
                             Console.WriteLine("\n7 - Nueva Granada");
                             Console.WriteLine("\n8 - Usulután");
-                            Console.WriteLine("__________________________________");
-                            Console.WriteLine("9-Salir");
+                            Console.WriteLine("__________________________________\n");
+                            Console.WriteLine("\n9-Salir");
                             Console.WriteLine("\nIngrese el numero de su consulta");
                             id = Console.ReadLine();
                             switch (id)
